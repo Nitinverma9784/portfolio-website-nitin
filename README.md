@@ -41,9 +41,9 @@ Fields for Name, Email, and Message for easy communication.
 
 
 ## Connect with Me
-Instagram: @nitinverma9401
-LinkedIn: https://www.linkedin.com/in/nitin-verma-558ba5276/
-X (Twitter): @ImKakashi106
-Author: Nitin Verma
-University: Sir Padampat Singhania University, Udaipur
-Objective: To create an engaging platform to showcase my skills, projects, and personality while inviting potential collaborators and employers to connect with me.
+-Instagram: https://www.instagram.com/nitinverma9401/
+-LinkedIn: https://www.linkedin.com/in/nitin-verma-558ba5276/
+-X (Twitter): https://x.com/ImKakashi106
+-Author: Nitin Verma
+-University: Sir Padampat Singhania University, Udaipur
+-Objective: To create an engaging platform to showcase my skills, projects, and personality while inviting potential collaborators and employers to connect with me.
